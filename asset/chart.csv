@@ -1,0 +1,8 @@
+id,parentId,titre,position,image,trad
+100,,Leader de la [RT],RushATom,asset\img\PP\RushATom.webp,L_leader
+101,100,Etat-major Escadron War-Thunder,Khârn,asset\img\PP\Kharn.webp,L_E_war_Thunder
+102,100,Etat-major Régiment Squad 44,Remzer,asset\img\PP\Remzer.webp,L_E_Squad44
+103,100,Responsable de com,CTNLucas,asset\img\PP\CTNLucas.webp,L_E_Com
+104,100,Monteur vidéo,MISTRAL,asset\img\PP\MISTRAL.webp,L_E_Video
+110,101,Second du régiment :,LeoMajor,asset\img\PP\LeoMajor.webp,L_S
+112,102,Second du régiment :,PapaCookie,asset\img\PP\PapaCookie.webp,L_S
